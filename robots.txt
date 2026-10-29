@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR-DOMAIN.com with your real deployed domain.
+Sitemap: https://kumail.info/sitemap.xml
